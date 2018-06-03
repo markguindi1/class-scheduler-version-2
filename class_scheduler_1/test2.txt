@@ -1,0 +1,34 @@
+Course PL 2144
+
+Section A
+
+Mon 830 1030
+Wed 830 1030
+
+Section B
+
+Mon 1030 1230
+Wed 1030 1230
+
+
+Course CS 1134
+
+Section B
+
+Mon 1500 1630
+Wed 1500 1630
+
+Section C
+
+Mon 1030 1200
+Wed 1030 1150
+
+Section A
+
+Mon 900 1030
+Wed 900 1030
+
+Section D
+
+Mon 1630 1800
+Wed 1630 1800

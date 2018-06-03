@@ -1,0 +1,4 @@
+[16, ('CS 2124 LEC', 'CS 2124 LAB'), 'MG 2204', 'MA 2224', ('PH 2131', 'PH 2033')]
+[16, ('CS 2124 LEC', 'CS 2124 LAB'), 'MG 2204', 'MA 2224', ('CS 2204 LEC', 'CS 2204 LAB')]
+[16, ('CS 2124 LEC', 'CS 2124 LAB'), 'MG 2204', ('PH 2131', 'PH 2033'), ('CS 2204 LEC', 'CS 2204 LAB')]
+3 combinations.

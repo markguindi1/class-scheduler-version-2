@@ -1,0 +1,510 @@
+Fall 2017 Schedules 
+Sorted by latest average start time 
+
+
+Mandatory Courses:  [('CS 2124 LEC', 'CS 2124 LAB'), 'MG 2204', ('BMS-A 1004 LEC', 'BMS-A 1004 LAB')]
+Optional/Elective Courses:  [('CS 2204 LEC', 'CS 2204 LAB'), 'MG 2104', 'MG 2304', 'MA 2224', 'MG 2004']
+Minimum Number of Credits:  16
+
+Each schedule contains all mandatory courses.  
+Not all schedules contain each optional/elective course.  
+Courses in parentheses are corequisites and must be taken together.  
+Schedules may meet or exceed minimum number of credits. 
+
+---------------------------------------------------------------------- 
+
+Schedule # 1 
+
+[('CS 2124 LEC', 'CLEC'), ('CS 2124 LAB', 'BLAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '3'), ('MA 2224', 'R')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    2:30 PM
+	Latest Start:       3:00 PM		Latest End:      8:00 PM
+	Average Start:      10:30 AM		Average End:     5:15 PM
+	Average Duration:   6:45		Credits:         16
+
+
+
+				 Mon    3:00 PM    -    8:00 PM
+				 Tues   9:00 AM    -    4:00 PM
+				 Wed    8:00 AM    -    8:00 PM
+				 Thurs  9:00 AM    -    4:00 PM
+				 Fri    11:30 AM   -    2:30 PM
+
+----------------------------------------------------------------------
+
+Schedule # 2 
+
+[('CS 2124 LEC', 'CLEC'), ('CS 2124 LAB', 'BLAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '3'), ('MG 2104', 'A')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    2:30 PM
+	Latest Start:       3:00 PM		Latest End:      6:00 PM
+	Average Start:      10:30 AM		Average End:     4:40 PM
+	Average Duration:   6:10		Credits:         16
+
+
+
+				 Mon    3:00 PM    -    4:30 PM
+				 Tues   9:00 AM    -    6:00 PM
+				 Wed    8:00 AM    -    4:30 PM
+				 Thurs  9:00 AM    -    6:00 PM
+				 Fri    11:30 AM   -    2:30 PM
+
+----------------------------------------------------------------------
+
+Schedule # 3 
+
+[('CS 2124 LEC', 'CLEC'), ('CS 2124 LAB', 'BLAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '1'), ('MA 2224', 'R')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    2:30 PM
+	Latest Start:       3:00 PM		Latest End:      8:00 PM
+	Average Start:      10:30 AM		Average End:     5:15 PM
+	Average Duration:   6:45		Credits:         16
+
+
+
+				 Mon    8:00 AM    -    8:00 PM
+				 Tues   9:00 AM    -    4:00 PM
+				 Wed    3:00 PM    -    8:00 PM
+				 Thurs  9:00 AM    -    4:00 PM
+				 Fri    11:30 AM   -    2:30 PM
+
+----------------------------------------------------------------------
+
+Schedule # 4 
+
+[('CS 2124 LEC', 'CLEC'), ('CS 2124 LAB', 'BLAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '1'), ('MG 2104', 'A')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    2:30 PM
+	Latest Start:       3:00 PM		Latest End:      6:00 PM
+	Average Start:      10:30 AM		Average End:     4:40 PM
+	Average Duration:   6:10		Credits:         16
+
+
+
+				 Mon    8:00 AM    -    4:30 PM
+				 Tues   9:00 AM    -    6:00 PM
+				 Wed    3:00 PM    -    4:30 PM
+				 Thurs  9:00 AM    -    6:00 PM
+				 Fri    11:30 AM   -    2:30 PM
+
+----------------------------------------------------------------------
+
+Schedule # 5 
+
+[('CS 2124 LEC', 'BLEC'), ('CS 2124 LAB', 'BLAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '1'), ('MA 2224', 'R')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    2:30 PM
+	Latest Start:       12:00 PM		Latest End:      8:00 PM
+	Average Start:      9:50 AM		Average End:     5:15 PM
+	Average Duration:   7:25		Credits:         16
+
+
+
+				 Mon    8:00 AM    -    8:00 PM
+				 Tues   9:00 AM    -    4:00 PM
+				 Wed    12:00 PM   -    8:00 PM
+				 Thurs  9:00 AM    -    4:00 PM
+				 Fri    11:30 AM   -    2:30 PM
+
+----------------------------------------------------------------------
+
+Schedule # 6 
+
+[('CS 2124 LEC', 'CLEC'), ('CS 2124 LAB', 'ALAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '1'), ('MA 2224', 'R')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    11:30 AM
+	Latest Start:       3:00 PM		Latest End:      8:00 PM
+	Average Start:      9:50 AM		Average End:     4:40 PM
+	Average Duration:   6:50		Credits:         16
+
+
+
+				 Mon    8:00 AM    -    8:00 PM
+				 Tues   9:00 AM    -    4:00 PM
+				 Wed    3:00 PM    -    8:00 PM
+				 Thurs  9:00 AM    -    4:00 PM
+				 Fri    8:30 AM    -    11:30 AM
+
+----------------------------------------------------------------------
+
+Schedule # 7 
+
+[('CS 2124 LEC', 'CLEC'), ('CS 2124 LAB', 'ALAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '1'), ('MG 2104', 'A')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    11:30 AM
+	Latest Start:       3:00 PM		Latest End:      6:00 PM
+	Average Start:      9:50 AM		Average End:     4:05 PM
+	Average Duration:   6:15		Credits:         16
+
+
+
+				 Mon    8:00 AM    -    4:30 PM
+				 Tues   9:00 AM    -    6:00 PM
+				 Wed    3:00 PM    -    4:30 PM
+				 Thurs  9:00 AM    -    6:00 PM
+				 Fri    8:30 AM    -    11:30 AM
+
+----------------------------------------------------------------------
+
+Schedule # 8 
+
+[('CS 2124 LEC', 'CLEC'), ('CS 2124 LAB', 'ALAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '3'), ('CS 2204 LEC', 'A'), ('CS 2204 LAB', 'D')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    2:30 PM
+	Latest Start:       3:00 PM		Latest End:      4:30 PM
+	Average Start:      9:50 AM		Average End:     3:50 PM
+	Average Duration:   6:00		Credits:         16
+
+
+
+				 Mon    3:00 PM    -    4:30 PM
+				 Tues   9:00 AM    -    4:00 PM
+				 Wed    8:00 AM    -    4:30 PM
+				 Thurs  9:00 AM    -    4:00 PM
+				 Fri    8:30 AM    -    2:30 PM
+
+----------------------------------------------------------------------
+
+Schedule # 9 
+
+[('CS 2124 LEC', 'BLEC'), ('CS 2124 LAB', 'BLAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '3'), ('MA 2224', 'E')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    2:30 PM
+	Latest Start:       12:00 PM		Latest End:      6:00 PM
+	Average Start:      9:50 AM		Average End:     4:25 PM
+	Average Duration:   6:35		Credits:         16
+
+
+
+				 Mon    12:00 PM   -    6:00 PM
+				 Tues   9:00 AM    -    4:00 PM
+				 Wed    8:00 AM    -    6:00 PM
+				 Thurs  9:00 AM    -    4:00 PM
+				 Fri    11:30 AM   -    2:30 PM
+
+----------------------------------------------------------------------
+
+Schedule # 10 
+
+[('CS 2124 LEC', 'CLEC'), ('CS 2124 LAB', 'ALAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '1'), ('CS 2204 LEC', 'A'), ('CS 2204 LAB', 'D')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    2:30 PM
+	Latest Start:       3:00 PM		Latest End:      4:30 PM
+	Average Start:      9:50 AM		Average End:     3:50 PM
+	Average Duration:   6:00		Credits:         16
+
+
+
+				 Mon    8:00 AM    -    4:30 PM
+				 Tues   9:00 AM    -    4:00 PM
+				 Wed    3:00 PM    -    4:30 PM
+				 Thurs  9:00 AM    -    4:00 PM
+				 Fri    8:30 AM    -    2:30 PM
+
+----------------------------------------------------------------------
+
+Schedule # 11 
+
+[('CS 2124 LEC', 'BLEC'), ('CS 2124 LAB', 'BLAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '3'), ('MA 2224', 'R')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    2:30 PM
+	Latest Start:       12:00 PM		Latest End:      8:00 PM
+	Average Start:      9:50 AM		Average End:     5:15 PM
+	Average Duration:   7:25		Credits:         16
+
+
+
+				 Mon    12:00 PM   -    8:00 PM
+				 Tues   9:00 AM    -    4:00 PM
+				 Wed    8:00 AM    -    8:00 PM
+				 Thurs  9:00 AM    -    4:00 PM
+				 Fri    11:30 AM   -    2:30 PM
+
+----------------------------------------------------------------------
+
+Schedule # 12 
+
+[('CS 2124 LEC', 'BLEC'), ('CS 2124 LAB', 'BLAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '1'), ('MA 2224', 'E')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    2:30 PM
+	Latest Start:       12:00 PM		Latest End:      6:00 PM
+	Average Start:      9:50 AM		Average End:     4:25 PM
+	Average Duration:   6:35		Credits:         16
+
+
+
+				 Mon    8:00 AM    -    6:00 PM
+				 Tues   9:00 AM    -    4:00 PM
+				 Wed    12:00 PM   -    6:00 PM
+				 Thurs  9:00 AM    -    4:00 PM
+				 Fri    11:30 AM   -    2:30 PM
+
+----------------------------------------------------------------------
+
+Schedule # 13 
+
+[('CS 2124 LEC', 'CLEC'), ('CS 2124 LAB', 'ALAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '3'), ('MA 2224', 'R')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    11:30 AM
+	Latest Start:       3:00 PM		Latest End:      8:00 PM
+	Average Start:      9:50 AM		Average End:     4:40 PM
+	Average Duration:   6:50		Credits:         16
+
+
+
+				 Mon    3:00 PM    -    8:00 PM
+				 Tues   9:00 AM    -    4:00 PM
+				 Wed    8:00 AM    -    8:00 PM
+				 Thurs  9:00 AM    -    4:00 PM
+				 Fri    8:30 AM    -    11:30 AM
+
+----------------------------------------------------------------------
+
+Schedule # 14 
+
+[('CS 2124 LEC', 'BLEC'), ('CS 2124 LAB', 'BLAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '1'), ('MG 2104', 'A')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    1:30 PM
+	Latest Start:       12:00 PM		Latest End:      6:00 PM
+	Average Start:      9:50 AM		Average End:     3:25 PM
+	Average Duration:   5:35		Credits:         16
+
+
+
+				 Mon    8:00 AM    -    1:30 PM
+				 Tues   9:00 AM    -    6:00 PM
+				 Wed    12:00 PM   -    1:30 PM
+				 Thurs  9:00 AM    -    6:00 PM
+				 Fri    11:30 AM   -    2:30 PM
+
+----------------------------------------------------------------------
+
+Schedule # 15 
+
+[('CS 2124 LEC', 'BLEC'), ('CS 2124 LAB', 'BLAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '3'), ('MG 2104', 'A')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    1:30 PM
+	Latest Start:       12:00 PM		Latest End:      6:00 PM
+	Average Start:      9:50 AM		Average End:     3:25 PM
+	Average Duration:   5:35		Credits:         16
+
+
+
+				 Mon    12:00 PM   -    1:30 PM
+				 Tues   9:00 AM    -    6:00 PM
+				 Wed    8:00 AM    -    1:30 PM
+				 Thurs  9:00 AM    -    6:00 PM
+				 Fri    11:30 AM   -    2:30 PM
+
+----------------------------------------------------------------------
+
+Schedule # 16 
+
+[('CS 2124 LEC', 'CLEC'), ('CS 2124 LAB', 'ALAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '3'), ('MG 2104', 'A')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    11:30 AM
+	Latest Start:       3:00 PM		Latest End:      6:00 PM
+	Average Start:      9:50 AM		Average End:     4:05 PM
+	Average Duration:   6:15		Credits:         16
+
+
+
+				 Mon    3:00 PM    -    4:30 PM
+				 Tues   9:00 AM    -    6:00 PM
+				 Wed    8:00 AM    -    4:30 PM
+				 Thurs  9:00 AM    -    6:00 PM
+				 Fri    8:30 AM    -    11:30 AM
+
+----------------------------------------------------------------------
+
+Schedule # 17 
+
+[('CS 2124 LEC', 'CLEC'), ('CS 2124 LAB', 'BLAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '3'), ('CS 2204 LEC', 'A'), ('CS 2204 LAB', 'B')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    2:30 PM
+	Latest Start:       11:30 AM		Latest End:      4:30 PM
+	Average Start:      9:20 AM		Average End:     3:50 PM
+	Average Duration:   6:30		Credits:         16
+
+
+
+				 Mon    9:30 AM    -    4:30 PM
+				 Tues   9:00 AM    -    4:00 PM
+				 Wed    8:00 AM    -    4:30 PM
+				 Thurs  9:00 AM    -    4:00 PM
+				 Fri    11:30 AM   -    2:30 PM
+
+----------------------------------------------------------------------
+
+Schedule # 18 
+
+[('CS 2124 LEC', 'BLEC'), ('CS 2124 LAB', 'ALAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '3'), ('CS 2204 LEC', 'A'), ('CS 2204 LAB', 'D')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    1:30 PM
+	Latest Start:       12:00 PM		Latest End:      4:00 PM
+	Average Start:      9:15 AM		Average End:     2:40 PM
+	Average Duration:   5:25		Credits:         16
+
+
+
+				 Mon    12:00 PM   -    1:30 PM
+				 Tues   9:00 AM    -    4:00 PM
+				 Wed    8:00 AM    -    1:30 PM
+				 Thurs  9:00 AM    -    4:00 PM
+				 Fri    8:30 AM    -    2:30 PM
+
+----------------------------------------------------------------------
+
+Schedule # 19 
+
+[('CS 2124 LEC', 'BLEC'), ('CS 2124 LAB', 'ALAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '1'), ('MA 2224', 'R')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    11:30 AM
+	Latest Start:       12:00 PM		Latest End:      8:00 PM
+	Average Start:      9:15 AM		Average End:     4:40 PM
+	Average Duration:   7:25		Credits:         16
+
+
+
+				 Mon    8:00 AM    -    8:00 PM
+				 Tues   9:00 AM    -    4:00 PM
+				 Wed    12:00 PM   -    8:00 PM
+				 Thurs  9:00 AM    -    4:00 PM
+				 Fri    8:30 AM    -    11:30 AM
+
+----------------------------------------------------------------------
+
+Schedule # 20 
+
+[('CS 2124 LEC', 'BLEC'), ('CS 2124 LAB', 'ALAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '1'), ('MA 2224', 'E')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    11:30 AM
+	Latest Start:       12:00 PM		Latest End:      6:00 PM
+	Average Start:      9:15 AM		Average End:     3:50 PM
+	Average Duration:   6:35		Credits:         16
+
+
+
+				 Mon    8:00 AM    -    6:00 PM
+				 Tues   9:00 AM    -    4:00 PM
+				 Wed    12:00 PM   -    6:00 PM
+				 Thurs  9:00 AM    -    4:00 PM
+				 Fri    8:30 AM    -    11:30 AM
+
+----------------------------------------------------------------------
+
+Schedule # 21 
+
+[('CS 2124 LEC', 'BLEC'), ('CS 2124 LAB', 'ALAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '1'), ('MG 2104', 'A')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    11:30 AM
+	Latest Start:       12:00 PM		Latest End:      6:00 PM
+	Average Start:      9:15 AM		Average End:     2:50 PM
+	Average Duration:   5:35		Credits:         16
+
+
+
+				 Mon    8:00 AM    -    1:30 PM
+				 Tues   9:00 AM    -    6:00 PM
+				 Wed    12:00 PM   -    1:30 PM
+				 Thurs  9:00 AM    -    6:00 PM
+				 Fri    8:30 AM    -    11:30 AM
+
+----------------------------------------------------------------------
+
+Schedule # 22 
+
+[('CS 2124 LEC', 'BLEC'), ('CS 2124 LAB', 'ALAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '1'), ('CS 2204 LEC', 'A'), ('CS 2204 LAB', 'D')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    1:30 PM
+	Latest Start:       12:00 PM		Latest End:      4:00 PM
+	Average Start:      9:15 AM		Average End:     2:40 PM
+	Average Duration:   5:25		Credits:         16
+
+
+
+				 Mon    8:00 AM    -    1:30 PM
+				 Tues   9:00 AM    -    4:00 PM
+				 Wed    12:00 PM   -    1:30 PM
+				 Thurs  9:00 AM    -    4:00 PM
+				 Fri    8:30 AM    -    2:30 PM
+
+----------------------------------------------------------------------
+
+Schedule # 23 
+
+[('CS 2124 LEC', 'BLEC'), ('CS 2124 LAB', 'ALAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '3'), ('MA 2224', 'R')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    11:30 AM
+	Latest Start:       12:00 PM		Latest End:      8:00 PM
+	Average Start:      9:15 AM		Average End:     4:40 PM
+	Average Duration:   7:25		Credits:         16
+
+
+
+				 Mon    12:00 PM   -    8:00 PM
+				 Tues   9:00 AM    -    4:00 PM
+				 Wed    8:00 AM    -    8:00 PM
+				 Thurs  9:00 AM    -    4:00 PM
+				 Fri    8:30 AM    -    11:30 AM
+
+----------------------------------------------------------------------
+
+Schedule # 24 
+
+[('CS 2124 LEC', 'BLEC'), ('CS 2124 LAB', 'ALAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '3'), ('MA 2224', 'E')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    11:30 AM
+	Latest Start:       12:00 PM		Latest End:      6:00 PM
+	Average Start:      9:15 AM		Average End:     3:50 PM
+	Average Duration:   6:35		Credits:         16
+
+
+
+				 Mon    12:00 PM   -    6:00 PM
+				 Tues   9:00 AM    -    4:00 PM
+				 Wed    8:00 AM    -    6:00 PM
+				 Thurs  9:00 AM    -    4:00 PM
+				 Fri    8:30 AM    -    11:30 AM
+
+----------------------------------------------------------------------
+
+Schedule # 25 
+
+[('CS 2124 LEC', 'BLEC'), ('CS 2124 LAB', 'ALAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '3'), ('MG 2104', 'A')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    11:30 AM
+	Latest Start:       12:00 PM		Latest End:      6:00 PM
+	Average Start:      9:15 AM		Average End:     2:50 PM
+	Average Duration:   5:35		Credits:         16
+
+
+
+				 Mon    12:00 PM   -    1:30 PM
+				 Tues   9:00 AM    -    6:00 PM
+				 Wed    8:00 AM    -    1:30 PM
+				 Thurs  9:00 AM    -    6:00 PM
+				 Fri    8:30 AM    -    11:30 AM
+
+----------------------------------------------------------------------
+
+Schedule # 26 
+
+[('CS 2124 LEC', 'CLEC'), ('CS 2124 LAB', 'ALAB'), ('MG 2204', 'A'), ('BMS-A 1004 LEC', 'A'), ('BMS-A 1004 LAB', '3'), ('CS 2204 LEC', 'A'), ('CS 2204 LAB', 'B')] 
+
+	Earliest Start:     8:00 AM		Earliest End:    11:30 AM
+	Latest Start:       9:30 AM		Latest End:      4:30 PM
+	Average Start:      8:45 AM		Average End:     3:15 PM
+	Average Duration:   6:30		Credits:         16
+
+
+
+				 Mon    9:30 AM    -    4:30 PM
+				 Tues   9:00 AM    -    4:00 PM
+				 Wed    8:00 AM    -    4:30 PM
+				 Thurs  9:00 AM    -    4:00 PM
+				 Fri    8:30 AM    -    11:30 AM
+
+----------------------------------------------------------------------
+
+26 Possible Schedules

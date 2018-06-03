@@ -1,0 +1,93 @@
+Course PL 2144
+
+Section A
+
+Mon 830 1030
+Wed 830 1030
+
+Section B
+
+Mon 1030 1230
+Wed 1030 1230
+
+
+Course CS 1134
+
+Section B
+
+Mon 1500 1630
+Wed 1500 1630
+
+Section C
+
+Mon 1030 1200
+Wed 1030 1150
+
+Section A
+
+Mon 900 1030
+Wed 900 1030
+
+Section D
+
+Mon 1630 1800
+Wed 1630 1800
+
+Course MA 2314
+
+Section A
+
+Mon 1030 1200
+Wed 1030 1200
+
+Section B
+
+Mon 1430 1600
+Wed 1430 1600
+
+Course MG 2524
+
+Section A
+
+Tues 1030 1230
+Thurs 1030 1230
+
+Course MA Rec
+
+Section 1
+
+Thurs 930 1030
+
+Section 2
+
+Thurs 1030 1130
+
+Section 3
+
+Thurs 1130 1230
+
+Section 4
+
+Thurs 1330 1430
+
+Section 5
+
+Thurs 1430 1530
+
+Section 6
+
+Thurs 1530 1630
+
+Section 7
+
+Thurs 1630 1730
+
+Course MG 1002
+
+Section A
+
+Wed 1230 1430
+
+Section B
+
+Wed 1030 1230

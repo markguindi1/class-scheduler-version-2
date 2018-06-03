@@ -1,0 +1,27 @@
+Spring 2018 Schedules 
+
+0 Possible Schedules 
+
+Sorted by the following criteria, in listed order: 
+
+Sorted by Priority Score in increasing order.
+Then by Average Duration in increasing order. 
+Then by Average End in increasing order. 
+
+Mandatory Courses: [CS 2204 LEC, CS 2204 LAB, MG 2304 LEC, CS 2413 LEC
+]
+
+Optional/Elective Courses: [CS 2214-A LEC, CS 2214 ARC, CS 2214-B LEC, CS 2214 BRC, 
+CS 3913 LEC]
+
+Minimum Number of Credits:  18
+
+Each schedule contains all mandatory courses. 
+Not all schedules contain each optional/elective course. 
+Course lists also contain course corequisites. 
+Schedules may meet or exceed minimum number of credits. 
+
+---------------------------------------------------------------------- 
+
+0 Possible Schedules 
+
