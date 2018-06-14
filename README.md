@@ -44,7 +44,7 @@ The following files are Data structures used in the program, implemented in my D
 
 * `development.py` : an empty Python file I would use just to test small snippets of code
 
-
+I hope to eventually improve this project by using Python conventions to package it into a proper Python package, eventually improve the interface (possibly build it into a web app), and possibly conect to an API to fetch the Course data automatically. 
 
 
 
