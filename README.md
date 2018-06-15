@@ -14,7 +14,7 @@ This program's function is to generate all possible non-conflicting schedules of
 	5. Average Start
 	6. Average End
 	7. Average Duration
-	8. Priority Score. A priority for each course can be provided by the user in the input file. The more desirable a course is, the lower priority it should have (e.g. the most desirable course should have a priority of 0 or 1). Schedules can be sorted by the sum of its courses priority scores. A course without a priority score is given a default priority score of 3.  
+	8. Priority Score. A priority for each course can be provided by the user in the input file. The more desirable a course is, the lower priority it should have (e.g. the most desirable course should have a priority of 0 or 1). Schedules can be sorted by the sum of their courses' priority scores. A course without a priority score is given a default priority score of 3.  
 * The format of the output is quite informative, providing a full list of mandatory & optional courses, the attributes which were used for sorting, and the schedules. Each schedule is presented in a clear manner, clearly outlining the weekly schedule in an easy-to-see format, and the schedules attributes are also readily seen.
 
 The program can be invoked in two methods:
